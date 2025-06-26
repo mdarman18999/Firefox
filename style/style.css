@@ -275,3 +275,48 @@ nav{
 }
 
 /* end section 6 */
+
+.section-7{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: rgba(0, 0, 0, 0.137);
+}
+
+.section-7-div-1 h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.section-7-div-2{
+    padding: 100px;
+    text-align: center;
+}
+
+.section-7-div-3{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.section-7-div-4 h1{
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+
+.section-7-div-4 p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.651);
+}
+
+
+.section-7-div-5 h1{
+    padding-bottom: 20px;
+    font-size: 40px; 
+}
+
+.section-7-div-5 p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.651);
+}
+
